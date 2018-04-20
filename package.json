@@ -1,6 +1,6 @@
 {
   "name": "koa-wechat-body",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "a module to parse wechat xml message to json for Koa",
   "main": "index.js",
   "dependencies": {
