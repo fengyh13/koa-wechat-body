@@ -46,7 +46,7 @@ parse result, ctx.request.body:
 
 ## Options
 
-Please refer to (https://www.npmjs.com/package/koa-xml-body#options)
+Please refer to [koa-xml-body](https://www.npmjs.com/package/koa-xml-body#options)
 
 - **encoding**: requested encoding. Default is `utf8`. If not set, the lib will retrive it from `content-type`(such as `content-type:application/xml;charset=gb2312`).
 - **limit**: limit of the body. If the body ends up being larger than this limit, a 413 error code is returned. Default is `1mb`.
