@@ -1,0 +1,31 @@
+{
+  "name": "koa-wechat-body",
+  "version": "1.0.0",
+  "description": "a module to parse wechat xml message to json for Koa",
+  "main": "index.js",
+  "dependencies": {
+    "koa-xml-body": "^2.0.0"
+  },
+  "devDependencies": {
+    "koa": "^2.5.0",
+    "should": "^13.2.1",
+    "supertest": "^3.0.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fengyh13/koa-wechat-body.git"
+  },
+  "keywords": [
+    "wechat",
+    "koa"
+  ],
+  "author": "fengyh13",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fengyh13/koa-wechat-body/issues"
+  },
+  "homepage": "https://github.com/fengyh13/koa-wechat-body#readme"
+}
